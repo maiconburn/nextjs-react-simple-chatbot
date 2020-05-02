@@ -1,3 +1,12 @@
+# Form Chatbot Example
+This is an example of implementing <a href="https://github.com/LucasBassetti/react-simple-chatbot" target="_blank">react-simple-chatbot</a> with Next.js, I took this page from my portfolio project and saved it here for future use in other projects.
+
+![Next.js react-simple-chatbot example](https://res.cloudinary.com/dqpwiwwu2/image/upload/v1588401668/chatbot_643d510c2c.png)
+
+## How to try it?
+
+Clone this repository and follow the instructions below:
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/zeit/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
